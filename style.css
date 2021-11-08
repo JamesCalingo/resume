@@ -20,6 +20,10 @@ header p {
   width: 65%
 }
 
+.project-name {
+  font-weight: bold;
+}
+
 #lists {
   display: flex;
   justify-content: space-around;
