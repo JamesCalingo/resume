@@ -1,10 +1,10 @@
-React = <a href="https://reactjs.org/" target="blank" rel="noopener noreferrer">React</a>
-Node = <a href="https://nodejs.org/en/" target="blank" rel="noopener noreferrer">Node</a>
-MongoDB = <a href="https://www.mongodb.com/" target="blank" rel="noopener noreferrer">MongoDB</a>
-MySQL = <a href="https://www.mysql.com/" target="blank" rel="noopener noreferrer">MySQL</a>
-Insomnia = <a href="https://insomnia.rest/" target="blank" rel="noopener noreferrer">Insomnia</a>
-Jest = <a href="https://jestjs.io/" target="blank" rel="noopener noreferrer">Jest</a>
-Heroku = <a href="https://www.heroku.com/home" target="blank" rel="noopener noreferrer">Heroku</a>
+React = <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">React</a>
+Node = <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">Node</a>
+MongoDB = <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">MongoDB</a>
+MySQL = <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">MySQL</a>
+Insomnia = <a href="https://insomnia.rest/" target="_blank" rel="noopener noreferrer">Insomnia</a>
+Jest = <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer">Jest</a>
+Heroku = <a href="https://www.heroku.com/home" target="_blank" rel="noopener noreferrer">Heroku</a>
 Netlify = <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify</a>
 
 
